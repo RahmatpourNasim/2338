@@ -1,0 +1,24 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                    graph_Sample_63.scafSeq
+# contigs (>= 0 bp)         1081133                
+# contigs (>= 1000 bp)      140521                 
+# contigs (>= 5000 bp)      13412                  
+# contigs (>= 10000 bp)     1618                   
+# contigs (>= 25000 bp)     205                    
+# contigs (>= 50000 bp)     67                     
+Total length (>= 0 bp)      597025588              
+Total length (>= 1000 bp)   373792155              
+Total length (>= 5000 bp)   108842813              
+Total length (>= 10000 bp)  31599902               
+Total length (>= 25000 bp)  12717771               
+Total length (>= 50000 bp)  8050257                
+# contigs                   248137                 
+Largest contig              422414                 
+Total length                450226252              
+GC (%)                      39.18                  
+N50                         2581                   
+N75                         1293                   
+L50                         46483                  
+L75                         108697                 
+# N's per 100 kbp           9728.44                

@@ -1,4 +1,4 @@
-# 2338
+# Physcomitrim_pyriforme2338_BGISEQ-500
 Here are the steps in genome assembly of moss Physcomitrium pyriforme (DNA number= 2338) using BGISEQ-500 short reads.
 1) Quality control of short reads by FASTQC
 2) Removing the adapters and low quality bases (Trimmomatic.sh)
